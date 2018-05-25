@@ -1,10 +1,11 @@
-# phpunit-mail-tracker
+# PHPunit Mail Tracker
+
 Makes it real easy to write unit test cases for emails in laravel
 
 
 ### Installation by Composer
 
-	$ composer require php-imap/php-imap
+	$ composer require avinash403/phpunit-mail-tracker
 
 
 ### Usage example
